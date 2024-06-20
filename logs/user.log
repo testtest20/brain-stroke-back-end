@@ -1,0 +1,15 @@
+2024-04-18 19:07:05 | WARN | "firstName" is required
+2024-04-20 16:23:00 | WARN | "name" is not allowed
+2024-04-20 16:23:14 | WARN | "firstName" is not allowed
+2024-04-20 16:27:39 | WARN | "email" is required
+2024-04-20 16:28:13 | WARN | "email" must be a valid email
+2024-04-20 16:28:37 | WARN | "password" is required
+2024-04-20 17:08:28 | WARN | "password" with value "123456aS$" fails to match the required pattern: /^[a-zA-Z0-9]{3,30}$/
+2024-04-26 23:08:21 | WARN | "firstName" is not allowed
+2024-04-26 23:10:31 | WARN | "firstName" is not allowed
+2024-04-29 11:11:05 | WARN | "Password" is not allowed
+2024-04-29 11:11:29 | WARN | "Password" is not allowed
+2024-04-29 11:11:39 | WARN | "Password" is not allowed
+2024-04-29 11:13:00 | WARN | "Password" is not allowed
+2024-05-03 19:50:14 | WARN | "firstName" is required
+2024-05-03 19:51:09 | WARN | "firstName" is not allowed
