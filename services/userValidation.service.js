@@ -1,9 +1,7 @@
 const Joi = require("joi")
 
 let newUserSchema = Joi.object({
-    firstName : Joi.string()
-    .required(),
-    LastName : Joi.string()
+    userName : Joi.string()
     .required(),
     email : Joi.string()
     .email()
